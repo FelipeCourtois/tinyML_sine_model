@@ -1,0 +1,188 @@
+# Build and Compilation
+build/
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Executables and Binaries
+*.elf
+*.hex
+*.uf2
+*.bin
+*.axf
+
+# CMake
+CMakeLists.txt.user
+*.cmake
+!pico_sdk_import.cmake
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.clangd
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+conda-env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+*.nbconvert.log
+*checkpoint.ipynb
+*.ipynb_checkpoints
+
+# TensorFlow and ML
+*.pb
+*.tflite
+*.h5
+*.ckpt
+*.meta
+*.index
+*.data-*
+model_checkpoints/
+logs/
+.tensorboard/
+
+# Data files (optional - comment out if needed)
+*.csv
+*.json
+data/
+datasets/
+training_data/
+
+# Test outputs
+test_output/
+test_results/
+*.xml
+
+# Dependency cache
+lib/tflite_micro/.git/
+lib/tflite_micro/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# OS-specific
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.AppleDouble
+.LSOverride
+._*
+
+# Serial/Debug output
+*.log
+*.ser
+debug_output/
+
+# Compiler/Linker artifacts
+*.map
+*.sym
+*.lst
+
+# Documentation
+docs/_build/
+site/
+
+# macOS
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+.Trash-*
+
+# Generated files (keep commented for reference)
+# firmware/model.cpp  - Usually generated, but might want to track
+# firmware/model.h    - Usually generated, but might want to track
+
+# Tool outputs
+*.o.d
+*.su
+
+# gcov coverage data
+*.gcno
+*.gcda
+*.gcov
+
+# Valgrind outputs
+vgcore.*
+*.callgrind.out
+*.out.*
+
+# gprof profiling
+gmon.out
+.gprof_test_log
+
+# Instrumentation
+.profiling
+
+# Misc
+*.swp
+*~
+.#*
+*~

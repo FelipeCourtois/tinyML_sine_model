@@ -1,0 +1,21 @@
+* [33mebe4b5d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m chore: remove additional components and power considerations sections from README
+* [33mbe44265[m Point tflite_micro submodule to fork
+* [33mf93d695[m fix: update tflite_micro submodule to latest commit
+* [33m070e868[m fix: update .gitignore to remove unnecessary entries and clean up lib directory
+* [33m6ae6f44[m feat: add tflite_micro submodule for TensorFlow Lite integration
+* [33ma21edab[m feat: add .gitignore to exclude build files and include .vscode directory
+* [33m7f46bb7[m feat: refactor code structure for improved readability and maintainability
+* [33m9d58597[m feat: converting to a C File
+* [33meee156a[m feat: converting the model for TensorFlow Lite
+* [33mf430cdb[m feat: training, improving and testing model 2
+* [33m0f44ec2[m feat: training, improving and testing model
+* [33mac930f1[m feat: defining a basic model
+* [33m4f1d6f4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update SDK and picotool versions to 2.2.0 in CMakeLists.txt
+* [33mdfea53b[m Updated to latest upstream changes
+* [33m82ee61d[m Upgraded project to latest SDK to work with RP2350
+* [33m03cbb1e[m Updated to latest upstream changes
+*   [33md179b16[m Merge pull request #12 from usefulsensors/main
+[33m|[m[34m\[m  
+[33m|[m * [33m1bdb61c[m Added depthwise conv dual-core optimizations
+[33m|[m * [33m5f36d26[m Removed whitespace
+[33m|[m * [33m9c68184[m Fixed line wraps in README

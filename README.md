@@ -63,15 +63,6 @@ tinyML_sine_model/
 | **Flash** | 4 MB |
 | **Peripherals** | PWM, UART, SPI, I2C, ADC |
 
-### Additional Components
-
-- **USB Cable**: For programming and UART debugging
-- **Optional**: Development board or breakout pins for I/O connections
-
-### Power Considerations
-
-- Operating voltage: 1.8 - 5.5V (typical 3.0 - 3.6V)
-- Current consumption: ~50-100 mA (depending on operation)
 
 ---
 

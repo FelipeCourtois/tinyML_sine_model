@@ -120,6 +120,7 @@ The model is trained to approximate the sine function over the range [0, 2π]:
 ## Results
 
 The model successfully approximates the sine function using a lightweight neural network deployable on resource-constrained devices.
+
 ![alt text](training/results/image-1.png)
 
 ### Key Achievements
